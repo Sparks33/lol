@@ -1,1 +1,227 @@
-# Technowledge.github.io
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Technowledge | Home </title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+  </head>
+  <body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="Technowledge - Copy (3).html">Technowledge 💻</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <a class="nav-link" href="Technowledge - Copy (3).html">Home <span class="sr-only">(current)</span></a><a class="nav-link" href="Services.html">Services<span class="sr-only">(current)</span></a>
+          <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Servers </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown"> <div class="text-center"><p><a class="btn btn-link" href="http://www.adobe.com">The Breads</a></p> 
+				<div class="dropdown-divider"></div>
+				<p><a class="btn btn-link" href="http://www.adobe.com">Technowledge</a></p></div>
+             </div>
+          </li>
+          <a class="nav-link" href="Contact Us.html">Contact Us<span class="sr-only">(current)</span></a>
+          <li class="nav-item active"> </li>
+          
+          <li class="nav-item"> </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+    <header>
+<div class="jumbotron"> <div class="text-center"><img src="images/Blue Navy Modern Mobo Tech Logo.png" width="100" height="100" alt=""/></div>
+    <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>&nbsp;</p>
+              <h1 class="text-center">Welcome to Technowledge!</h1>
+              <p class="text-center">A Community Server where Programmers come together!</p>
+              <p class="text-center">&nbsp;Click Below To Learn More! 👇</p>
+              <p class="text-center"><a class="btn btn-primary btn-lg" href="Services.html" role="button">Learn more</a> </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  <section>
+    <div class="container">
+        <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel" style="background-color: grey">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active"> <img class="d-block mx-auto" src="images/image 3.png" alt="First slide">
+              <div class="carousel-caption">
+                <h5>Quality Services!&nbsp;</h5>
+</div>
+            </div>
+            <div class="carousel-item"> <img class="d-block mx-auto" src="images/image 2.png" alt="Second slide">
+              <div class="carousel-caption">
+              </div>
+            </div>
+            <div class="carousel-item"> <img class="d-block mx-auto" src="images/image 1.png" alt="Third slide">
+              <div class="carousel-caption">
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+      <p>     </p>
+      <div class="row">
+      <div class="col-lg-12 mb-4 mt-2 text-center">
+            <h2>ABOUT THE FOUNDERS&nbsp;</h2>
+          </div>
+        </div>
+      </div>
+      <div class="container ">
+        <div class="row">
+          <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+            <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/shadow-boy-white-eyes-unique-cool-pfp-nft-13yuypusuweug9xn.jpg" data-holder-rendered="true">
+            <h3>Dark ⵢ#2697</h3>
+            <p>The first owner of Technowledge Server (2022-Current). </p>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+            <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/images_7.jpg" data-holder-rendered="true">
+            <h3>! HAMZA#6613</h3>
+            <p>The first Co-Owner of the Technowledge Server&nbsp;(2022-Current).</p>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+            <img class="rounded-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/Screenshot 2023-01-22 172659.png" data-holder-rendered="true">
+            <h3>Sid Codes#6144</h3>
+            <p>The first Server Manager of the Technowledge Server (2023-Current) </p>
+          </div>
+</div>
+        <div class="row">
+          <div class="col-sm-12 mt-4 mb-2 text-center">
+            <h2>REVIEWS</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-lg-12">
+            <blockquote class="blockquote">
+              <p class="text-center">Coming Soon..</p>
+              <div class="font-italic">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be the first one to review us!</div>
+              <small class="blockquote-footer"> <br>
+              </small> 
+            </blockquote>
+          </div>
+</div>
+      </div>
+      <div class="jumbotron">
+        <div class="container">
+          <div class="row">
+            <div class="text-center col-md-8 col-12 mx-auto">
+              <p class="lead">Apart from being a Discord Server we also give services like Website Development, Application Development, Discord Bot Development and more! So order today but clicking this button:</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4 col-auto mx-auto"> <a class="btn btn-block btn-lg btn-success" href="Contact Us.html" title="">Contact Us!</a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+		  <div class="font-italic">
+          <div class="col-12 mb-2 text-center">
+            <h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OUR SERVICES</h2>
+            <p>&nbsp;</p>
+          </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-lg-4">
+            <h3 class="text-center">Website Development</h3>
+            <p class="text-center"><em> One of the service that we provide  is <strong>Web Development</strong>, we have specialised developers which can make you a <strong>high quality, full custom packed with graphics </strong>of your own choice in a very affordable price.&nbsp;Our websites are really unique and are just customed designed for you and your business!</em></p>
+<p class="text-center"><a class="btn btn-link" href="http://www.adobe.com">Order Now »</a></p>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <h3 class="text-center">Application Development</h3>
+            <p class="text-center"><em> Want an application for your <strong>business</strong>?
+            Or have an idea for a really mind blowing app? Well, Don't worry we got you!&nbsp;</em></p>
+            <p class="text-center"><em>Order an app today at an really low and discounted price! You will get more then your expectation!</em></p>
+<p class="text-center"><a class="btn btn-link" href="http://www.adobe.com">Order Now »</a></p>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <h3 class="text-center">Discord Bot Development&nbsp;</h3>
+            <p class="text-center"><em> This Services is specially designed for you &amp; your discord server. Get Custom made bot with <strong>Custom Username, About Me, Profile Picture and more!</strong>&nbsp;</em></p>
+            <p class="text-center"><em>Order today at the link below&nbsp;👇</em></p>
+<p class="text-center"><a class="btn btn-link" href="http://www.adobe.com">Order Now »</a></p>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <h3 class="text-center">GFX Designing&nbsp;</h3>
+            <p class="text-center"><em><strong>GFX Designing</strong> is one of our team's <strong>expertise.</strong> We can design any kind of logo, banner, tumbnail, poster, digital art etc. We have a really skilled team who will design a high quality GFX in less than 2 weeks!</em><em class="icon-desktop "></em></p>
+            <p class="text-center"><em>Order today and become one of our satisfied customers!&nbsp; &nbsp;&nbsp;</em></p>
+<p class="text-center"><a class="btn btn-link" href="http://www.adobe.com">Order Now »</a></p>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <h3 class="text-center">Discord Moderators</h3>
+            <p class="text-center"><em>Apart from these services we also have a team of Discord Moderators who can be perfect for your Discord Server! Hire one or multiple discord moderators who can monitor you discord server <strong>24/7!</strong> Our highly experienced moderators can keep your chat active, delete advertising links, and save your server from raids!</em></p>
+            <p class="text-center"><em>Hire a moderator today and make your discord server safe for your members!&nbsp;&nbsp;</em></p>
+<p class="text-center"><a class="btn btn-link" href="http://www.adobe.com">Order Now »</a></p>
+          </div>
+          <div class="col-sm-6 col-lg-4">
+            <h3 class="text-center">PM'S, AM'S & SR'S</h3>
+            <p class="text-center"><em>You made a discord server but are struggling to grow or find staff for it? Here it is!&nbsp;</em></p>
+            <p class="text-center"><em>Hire hard-working, experienced and skilled Partnership Managers, Alliance Managers and Server Recruiter from us today! </em></p>
+<p class="text-center"><em>If you choose us we guarantee <strong>100</strong> Partnerships, <strong>100</strong> members and <strong>10</strong> Alliances per Month! So what are you waiting for? Click on this link today!</em></p>
+<p class="text-center"><a class="btn btn-link" href="http://www.adobe.com">Order Now »</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-8 mx-auto">
+          <div class="jumbotron">
+            <div class="row text-center">
+              <div class="text-center col-12">
+                <h2>Request for a Newsletter</h2>
+              </div>
+              <div class="text-center col-12">
+                <!-- CONTACT FORM https://github.com/jonmbake/bootstrap3-contact-form -->
+                <form id="feedbackForm" class="text-center">
+                  <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" aria-describedby="nameHelp">
+                    <span id="nameHelp" class="form-text text-muted" style="display: none;">Please enter your name.</span>
+                  </div>
+                  <div class="form-group">
+                    <label for="email">E-Mail</label>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" aria-describedby="emailHelp">
+                    <span id="emailHelp" class="form-text text-muted" style="display: none;">Please enter a valid e-mail address.</span>
+                  </div>
+                  <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea rows="10" cols="100" class="form-control" id="message" name="message" placeholder="Message" aria-describedby="messageHelp"></textarea>
+                    <span id="messageHelp" class="form-text text-muted" style="display: none;">Please enter a message.</span>
+                  </div>
+                  <button type="submit" id="feedbackSubmit" class="btn btn-primary btn-lg"> Send</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>Copyright © Technowlege 2023. All rights reserved.</p>
+            <p class="blockquote-footer">Developed by Sparks#2697&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+    <script src="js/jquery-3.4.1.min.js"></script> 
+    <!-- Include all compiled plugins (below), or include individual files as needed --> 
+    <script src="js/popper.min.js"></script> 
+    <script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
